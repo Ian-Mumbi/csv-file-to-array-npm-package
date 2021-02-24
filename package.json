@@ -1,0 +1,15 @@
+{
+  "name": "mumbi-module",
+  "version": "1.0.1",
+  "description": "This packages reads in a csv file and return an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ian Mumbi",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.1"
+  }
+}
